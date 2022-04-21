@@ -53,7 +53,7 @@
 
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="K & J | Scripting's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=srtdeveloping&show_icons=true&theme=tokyonight" />
+  <img align="left" alt="K & J | Scripting's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=K & J | Scripting&show_icons=true&theme=tokyonight" />
 
 <br/>
 <br/>
