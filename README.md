@@ -1,6 +1,6 @@
-### Hi there, we are SRT | Developing community | Remember to join our [Discord] 👋
+### Hi there, we are K & J | Scripting community | Remember to join our [Discord] 👋
 
-[![Discord](https://img.shields.io/endpoint?label=Discord&logo=Discord&url=jokurandomlink)](https://discord.gg/b8kNQqKTEF)
+[![Discord](https://img.shields.io/endpoint?label=Discord&logo=Discord&url=jokurandomlink)](https://discord.gg/cr6jEYMj3J)
 
 ## We are a developer community we make programs for diffrent uses...
 
@@ -13,8 +13,8 @@
 
 ### Connect with us:
 
-[<img align="left" alt="discord.gg/b8kNQqKTEF" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="STR | Developing | Discord server" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/discord.svg" />][discord]
+[<img align="left" alt="https://discord.gg/cr6jEYMj3J" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="K & J | Scripting | Discord server" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/discord.svg" />][discord]
 
 <br/>
 <br/>
@@ -44,17 +44,16 @@
 ### 📕 Lastest releases
 
 <!-- BLOG-POST-LIST:START -->
-- [Webhook spammer](https://github.com/SRTDeveloping/SRTwebhook)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [More releases...](https://discord.gg/b8kNQqKTEF)
+➡️ [More releases...](https://discord.gg/cr6jEYMj3J)
 
 ---
 
 
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="SRT | Developing's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=srtdeveloping&show_icons=true&theme=tokyonight" />
+  <img align="left" alt="K & J | Scripting's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=srtdeveloping&show_icons=true&theme=tokyonight" />
 
 <br/>
 <br/>
@@ -70,9 +69,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-- [Webhook spammer](https://github.com/SRTDeveloping/SRTwebhook)
 <!--END_SECTION:activity-->
 
 
-[website]: https://discord.gg/b8kNQqKTEF
-[discord]: https://discord.gg/b8kNQqKTEF
+[discord]: https://discord.gg/cr6jEYMj3J
